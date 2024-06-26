@@ -17,6 +17,14 @@ Weihai Tianxin Modern Service Technology Research Institute Co., Ltd.
 *	Conducted motion analysis through the 3D reconstruction of human skeletons, proposing a “matrix tracking” strategy based on skeleton similarity to achieve skeleton matching.
 * You can find more information here: [Info](https://github.com/eLeventhw/sports)
 
+Plants vs. Zombies
+======
+*Independent Researcher*
+*	Independently developed a game inspired by Plants vs Zombie
+* Use Mysql to record game progress
+* Unlike traditional Plants vs. Zombies games, the planting of plants is more random and even involves planting zombies
+* You can find more information here: [Info](https://github.com/eLeventhw/pvz)
+  
 Development of Mathematical Modelling Assistance Software 
 ======
 *Independent Researcher*
