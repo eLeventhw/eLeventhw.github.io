@@ -25,10 +25,10 @@ author:
   name             : "Yiyang Lu(陆艺炀)"
   pronouns         : # example: "she/her"  
   bio              : "Harbin Institute of Technology"
-  location         : #"Earth"
+  location         : "China Shandong"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "2021211172@stu.hit.edu.cn" 
+  email            : #"2021211172@stu.hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/eLeventhw"
+  github           : "eLeventhw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
