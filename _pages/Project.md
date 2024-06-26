@@ -22,4 +22,4 @@ Development of Mathematical Modelling Assistance Software
 *Independent Researcher*
 *	Independently developed mathematical modelling assistance software inspired by SPSSPRO.
 * Implemented a function to provide adaptive data analysis results based on inserted algorithms and the data uploaded by users, meeting basic algorithmic needs for mathematical modelling competitions and reducing participants' programming burden.
-* You can find more information here: [Info]
+* You can find more information here: [Info](https://github.com/eLeventhw/spsspro)
