@@ -21,7 +21,7 @@ repository               : "eLeventhw/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "images/me.png"
   name             : "Yiyang Lu"
   pronouns         : # example: "she/her"  
   bio              : "Harbin Institute of Technology"
