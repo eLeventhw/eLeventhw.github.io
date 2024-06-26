@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Papers"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+SCI
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Measurement and prediction of subway resilience under rainfall events: An environment perspective (under major revision)
+======
+* A paper submitted to Transportation Research Part D(IF=7.6)
+* Responsible for implementing resilience prediction, contributing to the establishment of an integrated network framework combining wavelet decomposition and an improved GAT-TCN based on the voting method
+* Collaborated with the Heilongjiang Provincial Key Laboratory of Intelligent Traffic Management and Technology as the second author
 
-Work experience
+EI
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Creative Research on Automatic Detection of Flying Objects (accepted, yet to be published)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* A paper submitted to International Conference on Intelligent Computing and Signal Processing
+*	Improved the loss function of the YOLO framework and applied various data augmentation techniques to process datasets, enhancing the robustness and accuracy of the automatic detection model
+*	Co-first author
+*	You can find its abstract [here](
