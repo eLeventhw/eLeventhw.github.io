@@ -25,7 +25,7 @@ author:
   name             : "Yiyang Lu(陆艺炀)"
   pronouns         : # example: "she/her"  
   bio              : "University of Chinese Academy of Sciences"
-  location         : "University of Chinese Academy of Sciences Yanqihu Campus, Jingjia Road and Beishen Road Intersection West 150 Mi, Beijing"
+  location         : |"University of Chinese Academy of Sciences Yanqihu Campus, Jingjia Road and Beishen Road Intersection West 150 Mi, Beijing"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"2021211172@stu.hit.edu.cn" 
