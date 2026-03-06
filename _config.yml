@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yiyang Lu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yiyang Lu"
-description              : &description "a third year undergraduate student from HIT"
+description              : &description "a first-year master student from UCAS"
 url                      : https://eleventhw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eLeventhw/eLeventhw.github.io"
@@ -21,11 +21,11 @@ repository               : "eLeventhw/eLeventhw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "pic_luyy1.jpg"
   name             : "Yiyang Lu(陆艺炀)"
   pronouns         : # example: "she/her"  
-  bio              : "Harbin Institute of Technology"
-  location         : "China Shandong"
+  bio              : "University of Chinese Academy of Sciences"
+  location         : "University of Chinese Academy of Sciences Yanqihu Campus, Jingjia Road and Beishen Road Intersection West 150 Mi, Beijing"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"2021211172@stu.hit.edu.cn" 
