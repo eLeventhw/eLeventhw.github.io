@@ -7,7 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth year undergraduate student from [School of Computer Science](https://cst.hitwh.edu.cn/), [Harbin Institute of Technology](https://www.hit.edu.cn/). My research interest includes machine learning, 3D vision, multi-media, IoT, big data and autonomous driving.
-I am very fortunate to be advised by [Prof. Xin Hu](https://homepage.hit.edu.cn/hithuxin) from [School of Computer Science](https://cst.hitwh.edu.cn/), Harbin Institute of Technology. I was also advised by [Prof. Xiaowei Hu](https://homepage.hit.edu.cn/huxiaowei) from [School of Transportation Science and Engineering](https://jtxy.hit.edu.cn/), Harbin Institute of Technology.
-
+I'm currently a first-year master student at Institute of Information Engineering, Chinese Academy of Sciences, supervised by [Prof. Yue Zhao](https://people.ucas.ac.cn/~yuezhao) and [Kai Chen](https://people.ucas.ac.cn/~kaichen). My research interest includes LLM Security and Agentic AI. 
 You can find my CV here (Not updated yet): [Yiyang Lu's CV](../assets/Curriculum_Vitae.pdf).
