@@ -1,0 +1,13 @@
+.author__avatar {
+  border-radius: 0 !important;
+  overflow: visible !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+.author__avatar img {
+  border-radius: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  max-width: 200px;
+}
